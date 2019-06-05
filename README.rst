@@ -20,5 +20,5 @@ Manual builds can be performed by running the following :
 ::
 
         cd <project dir>/peek_doc_dev
-        build_docs.sh
+        build_html_docs.sh
 
